@@ -1,11 +1,3 @@
-//
-//  DBObjectManager.swift
-//  Yoovis
-//
-//  Created by Tarun on 29/08/17.
-//  Copyright © 2017 Tarun. All rights reserved.
-//
-
 import CoreData
 
 //MARK: - NSManagedObject
